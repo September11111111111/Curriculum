@@ -1,0 +1,7 @@
+﻿  CreatMST.cpp
+  Iosmorphism.cpp
+C:\Users\18778\source\repos\test2\test2\Iosmorphism.cpp(17,19): warning C4018: “<”: 有符号/无符号不匹配
+  test2.cpp
+  正在生成代码...
+C:\Users\18778\source\repos\test2\test2\Iosmorphism.cpp(11): warning C4715: “Iosmorphism::GetEdgePosInEdges”: 不是所有的控件路径都返回值
+  test2.vcxproj -> C:\Users\18778\source\repos\test2\x64\Debug\test2.exe
